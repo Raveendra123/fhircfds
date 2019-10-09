@@ -1,0 +1,10 @@
+{
+    "observationid": "msemr_observationid",
+    "effectivestart": "msemr_effectivestart",
+    "effectiveend": "msemr_effectiveend",
+    "comment": "msemr_comment",
+    "description": "msemr_description",
+    "valuetypequantityvalue": "msemr_valuetypequantityvalue",
+    "valuequantityunit": "msemr_valuequantityunit"
+}
+   
